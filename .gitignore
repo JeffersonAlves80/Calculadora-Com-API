@@ -1,0 +1,32 @@
+# Ignorar arquivos de compilação
+*.obj
+*.exe
+
+# Ignorar arquivos de configuração local
+*.editorconfig
+*.gitignore
+*.vscode
+
+# Ignorar a pasta de terceiros node_modules
+node_modules/
+
+# Ignorar arquivos de log
+logs/*.log
+
+# Ignorar pastas temporárias
+tmp/
+
+# Ignorar arquivos de teste
+test/
+
+# Ignorar arquivos de cobertura de teste
+coverage/
+
+# Ignorar arquivos de documentação
+docs/
+
+# Ignorar arquivos de construção Node.js
+dist/
+
+# Ignorar arquivos de ambiente de desenvolvimento
+.env
