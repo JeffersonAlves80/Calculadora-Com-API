@@ -1,6 +1,11 @@
 # Ignorar arquivos de compilação
 *.obj
 *.exe
+*.o
+*.out
+*.tmp
+*.cache
+
 
 # Ignorar arquivos de configuração local
 *.editorconfig
